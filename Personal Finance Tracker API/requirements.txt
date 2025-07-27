@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-dotenv
+pydantic[email]
+datetime
+slowapi
+limits
